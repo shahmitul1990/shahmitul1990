@@ -1,16 +1,13 @@
-## Hi there 👋
+## About me
 
-<!--
-**shahmitul1990/shahmitul1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a Data Scientist currently working on Machine Learning and A/B testing Projects.
 
-Here are some ideas to get you started:
+🌱 I love turning massive datasets into clear, actionable insights and helping people make smarter decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ A Fun Fact about me: I often get more excited about finding a hidden pattern in data than finishing a Netflix series.
+
+💬 My goal is to help people uncover insights from data that truly move the needle.
+
+📫 How to reach me: shahmitul1809@gmail.com or +91 9998813441
+
+😄 Pronouns: He/him
