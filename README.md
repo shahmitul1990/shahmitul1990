@@ -8,7 +8,7 @@
 
 🧠 I enjoy solving challenging problems in ML, predictive modelling, customer analytics, and product decision-making — anywhere data can move the needle.
 
-⚡ Fun Fact: I get more excited uncovering a hidden signal in data than finishing a Netflix series 🍿📈.
+⚡ Fun Fact: I get more excited uncovering a hidden signal in data than finishing a Netflix series 🍿.
 
 ## 🚀 Passionate about:
 
