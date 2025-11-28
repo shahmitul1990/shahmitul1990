@@ -1,13 +1,41 @@
-## About me
+## 🔍 About me
 
-🔭 I’m a Data Scientist currently working on Machine Learning and A/B testing Projects.
+👋 Hi! I’m Mitul Shah, a Data Scientist with 8 years of experience turning complex data into meaningful, business-driving insights.
 
-🌱 I love turning massive datasets into clear, actionable insights and helping people make smarter decisions.
+🔭 I’m currently working on Machine Learning, A/B Testing, and Experimentation, building models and experiments that impact real product decisions.
 
-⚡ A Fun Fact about me: I often get more excited about finding a hidden pattern in data than finishing a Netflix series.
+📊 I love transforming massive datasets into clear, actionable insights using statistical thinking, strong analytics, and scalable data pipelines.
 
-💬 My goal is to help people uncover insights from data that truly move the needle.
+🧠 I enjoy solving challenging problems in ML, predictive modelling, customer analytics, and product decision-making — anywhere data can move the needle.
 
-📫 How to reach me: shahmitul1809@gmail.com or +91 9998813441
+⚡ Fun Fact: I get more excited uncovering a hidden signal in data than finishing a Netflix series 🍿📈.
 
-😄 Pronouns: He/him
+## 🚀 Passionate about:
+
+* Experimentation & Causal Inference
+* ML Model Development
+* Data Storytelling & Visualization
+* Business Problem-Solving
+
+## 🎓 Certifications
+
+* Skillovilla Certified Data Analyst (Nov 2025) 
+* Supervised Machine Learning: Regression and Classification – Coursera (Oct 2025)
+* Structuring Machine Learning Projects – Coursera (May 2020)
+* Intro to Python – Datacamp (Sept 2018)
+* Intro to SQL for Data Science – Datacamp (Aug 2018)
+* Introduction to R – Datacamp (July 2018)
+* Introduction to Time Series Analysis – Datacamp (June 2018)
+* Intermediate R – Datacamp (May 2018)
+* ARIMA Modelling in R – Datacamp (Apr 2018)
+* Importing Data in R (Part 1) – Datacamp (Mar 2018)
+* Data Manipulation in R with dplyr – Datacamp (Feb 2018)
+* Cleaning Data in R – Datacamp (Jan 2018)
+
+## 📫 Reach me at:
+
+✉️ shahmitul1809@gmail.com
+
+📞 +91 9998813441
+
+😄 Pronouns: He/Him
