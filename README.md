@@ -17,7 +17,7 @@
 * Data Storytelling & Visualization
 * Business Problem-Solving
 
-## 🎓 Certifications
+## 🎓 Certifications:
 
 * Skillovilla Certified Data Analyst (Nov 2025) 
 * Supervised Machine Learning: Regression and Classification – Coursera (Oct 2025)
