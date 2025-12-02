@@ -1,6 +1,12 @@
-<img src="https://github.com/user-attachments/assets/76639ba5-5437-4862-9a60-63ea318d9083" 
-     alt="image" 
-     width="300" height="auto" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/76639ba5-5437-4862-9a60-63ea318d9083"
+    alt="image"
+    width="300"
+    height="auto"
+  />
+</p>
+
 ## 🔍 About me
 
 👋 Hi! I’m Mitul Shah, a Data Scientist with 8 years of experience turning complex data into meaningful, business-driving insights.
