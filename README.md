@@ -1,3 +1,7 @@
+<img width="1536" height="700" alt="image" src="https://github.com/user-attachments/assets/2684ddb4-9973-4c8d-a520-44614b9ab927" />
+
+
+
 ## 🔍 About me
 
 👋 Hi! I’m Mitul Shah, a Data Scientist with 8 years of experience turning complex data into meaningful, business-driving insights.
