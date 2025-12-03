@@ -33,9 +33,6 @@ I love transforming data into insights, building ML systems, and solving real bu
 
 ### **Machine Learning & Statistics**
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Weka](https://img.shields.io/badge/Weka-5C2D91?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-8A2BE2?style=for-the-badge)
-![ANOVA](https://img.shields.io/badge/ANOVA-6A5ACD?style=for-the-badge)
 ![Regression](https://img.shields.io/badge/Linear/Logistic_Regression-1E90FF?style=for-the-badge)
 ![Decision Trees](https://img.shields.io/badge/Decision_Trees-32CD32?style=for-the-badge)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
@@ -53,6 +50,8 @@ I love transforming data into insights, building ML systems, and solving real bu
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-8A2BE2?style=for-the-badge)
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-FF1493?style=for-the-badge)
 ![Experimental Design](https://img.shields.io/badge/Experimental_Design-663399?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-8A2BE2?style=for-the-badge)
+![ANOVA](https://img.shields.io/badge/ANOVA-6A5ACD?style=for-the-badge)
 
 ### **Tools & Platforms**
 ![AWS](https://img.shields.io/badge/AWS_Basic-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
