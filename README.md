@@ -19,6 +19,58 @@
 
 ⚡ Fun Fact: I get more excited uncovering a hidden signal in data than finishing a Netflix series 🍿.
 
+## 🧰 My Tech Stack
+
+#### 🧠 Programming & Query Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+
+#### 📚 Data Science Libraries
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-75AADB?logo=r&logoColor=white)
+
+#### 📊 Statistics & Experimentation
+
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-6A5ACD)
+![A/B & A/A Testing](https://img.shields.io/badge/A%2FB%20%26%20A%2FA%20Testing-8A2BE2)
+![Experimental Design](https://img.shields.io/badge/Experimental%20Design-2E8B57)
+![ANOVA](https://img.shields.io/badge/ANOVA-4682B4)
+![Regression](https://img.shields.io/badge/Linear%20%2F%20Logistic%20Regression-6495ED)
+![PCA](https://img.shields.io/badge/PCA-1E90FF)
+![Clustering](https://img.shields.io/badge/Clustering-00CED1)
+![ARIMA](https://img.shields.io/badge/ARIMA-008080)
+
+#### 🤖 Machine Learning Algorithms
+
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-32CD32)
+![Random Forests](https://img.shields.io/badge/Random%20Forests-228B22)
+![SVM](https://img.shields.io/badge/SVM-20B2AA)
+![Naive Bayes](https://img.shields.io/badge/Na%C3%AFve%20Bayes-5F9EA0)
+![kNN](https://img.shields.io/badge/k--NN-556B2F)
+![AdaBoost](https://img.shields.io/badge/AdaBoost-FF8C00)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-DA70D6)
+![Recommender Systems](https://img.shields.io/badge/Recommender%20Systems-9932CC)
+
+#### ⚙️ Tools & Platforms
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS%20(Basic)-232F3E?logo=amazonaws&logoColor=white)
+
+
+
+
+
 ## 🚀 Passionate about:
 
 * Experimentation & Causal Inference
