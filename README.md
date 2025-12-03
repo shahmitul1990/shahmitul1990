@@ -102,7 +102,5 @@ Check my repositories for:
 📧 **shahmitul1809@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/mitulpshah/ <br>
 📞 +91 9998813441
+
 ---
-
-
-
