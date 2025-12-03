@@ -50,7 +50,6 @@ I love transforming data into insights, building ML systems, and solving real bu
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-8A2BE2?style=for-the-badge)
 ![A/B Testing](https://img.shields.io/badge/A/B_Testing-FF1493?style=for-the-badge)
 ![Experimental Design](https://img.shields.io/badge/Experimental_Design-663399?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-8A2BE2?style=for-the-badge)
 ![ANOVA](https://img.shields.io/badge/ANOVA-6A5ACD?style=for-the-badge)
 
 ### **Tools & Platforms**
