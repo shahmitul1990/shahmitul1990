@@ -7,6 +7,8 @@
   />
 </p>
 
+---
+
 # 👋 Hi, I'm **Mitul Shah**
 
 Data Scientist specializing in **Experimentation, Machine Learning, and Advanced Analytics**.  
