@@ -1,19 +1,8 @@
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/76639ba5-5437-4862-9a60-63ea318d9083"
+    src="https://github.com/user-attachments/assets/6085beff-1995-4e73-81cf-661aee6d46a0"
     alt="image"
-    width="300"
-    height="auto"
-  />
-</p>
-
-
-
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/4a3ef852-7dfd-460f-9af1-05263124da1c"
-    alt="image"
-    width="300"
+    width="200"
     height="auto"
   />
 </p>
