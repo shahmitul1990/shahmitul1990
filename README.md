@@ -7,6 +7,17 @@
   />
 </p>
 
+
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/4a3ef852-7dfd-460f-9af1-05263124da1c"
+    alt="image"
+    width="300"
+    height="auto"
+  />
+</p>
+
 # 👋 Hi, I'm **Mitul Shah**
 
 Data Scientist specializing in **Experimentation, Machine Learning, and Advanced Analytics**.  
