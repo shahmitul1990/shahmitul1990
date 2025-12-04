@@ -67,7 +67,7 @@ I love transforming data into insights, building ML systems, and solving real bu
 ### 🔹 **1. Credit Card Fraud Detection — ML & R**
 A machine-learning model to classify fraudulent transactions using various algorithms.  
 **Tech:** R, ML algorithms, feature engineering  
-🔗 [Repo](https://github.com/shahmitul1990/fraud-detection)
+🔗 [View Fraud Detection Project](https://github.com/shahmitul1990/fraud-detection)
 
 ---
 
