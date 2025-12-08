@@ -6,7 +6,6 @@
     height="auto"
   />
 </p>
-
 ---
 
 # 👋 Hi, I'm **Mitul Shah**
