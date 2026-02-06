@@ -12,7 +12,7 @@
 # 👋 Hi, I'm **Mitul Shah**
 
 * Data Scientist specializing in **Experimentation 🧪**, **Machine Learning 🤖**, and **Advanced Analytics 📊** <br>
-* I love transforming **data into insights ✨**, **building ML systems ⚙️** and solving **real business problems end-to-end 🚀**
+* I love transforming **data into insights ✨**, **building ML systems ⚙️** and solving **real business problems end-to-end**
 
 ---
 
